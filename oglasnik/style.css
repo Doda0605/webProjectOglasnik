@@ -1,0 +1,74 @@
+#categoryLinks {
+  a {
+    color: rgb(2, 97, 126);
+  background-color: transparent;
+  text-decoration: none;
+  }
+
+  a:hover {
+    color: orange;
+    background-color: transparent;
+    text-decoration: underline;
+  } 
+}
+
+#loginLink {
+  a {
+    color: rgb(0, 0, 0);
+  background-color: transparent;
+  text-decoration: none;
+  }
+
+  a:hover {
+    color: rgb(80, 61, 7);
+    background-color: transparent;
+    text-decoration: underline;
+  } 
+}
+
+#registerLink {
+  a {
+    color: rgb(0, 0, 0);
+  background-color: transparent;
+  text-decoration: none;
+  }
+
+  a:hover {
+    color: rgb(80, 61, 7);
+    background-color: transparent;
+    text-decoration: underline;
+  } 
+}
+
+#oglasnikLink {
+  a {
+    color: rgb(0, 0, 0);
+  background-color: transparent;
+  text-decoration: none;
+  }
+
+  a:hover {
+    color: rgb(80, 61, 7);
+    background-color: transparent;
+    text-decoration: underline;
+  } 
+}
+
+body.registrationBody {
+  padding:50px;
+}
+#registrationContainer {
+  max-width: 600px;
+  margin:0 auto;
+  padding:50px;
+  box-shadow:rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+
+div.form-group {
+  margin-bottom:30px;
+}
+
+div.book-details {
+  background-color: #f5f5f5;
+  padding:50px;
+}
